@@ -47,8 +47,7 @@ Displays a star icon with a bold, amber color.
 Text Section:
 
 html
-Copy
-Edit
+
 <div class="ml-2">
   <h1 class="text-2xl font-bold">5.00</h1>
   <p class="text-gray-500">Trust Pilot Ratings</p>
